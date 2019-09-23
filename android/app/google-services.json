@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "808775435514",
+    "firebase_url": "https://rnsignin-98449.firebaseio.com",
+    "project_id": "rnsignin-98449",
+    "storage_bucket": "rnsignin-98449.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808775435514:android:7abcb71444826582563543",
+        "android_client_info": {
+          "package_name": "com.basicsofreact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808775435514-0a1pvim2c8i418qttgh4jh0i6uq2jtas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.basicsofreact",
+            "certificate_hash": "7ab8f4d7d7142abbc2dae34acc905b77e0b9b6e4"
+          }
+        },
+        {
+          "client_id": "808775435514-40ul8ekagnigk66mjobjs2rsgvva0ith.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-TaaR3W_uFm0w4Kj-6ZAPlCNZQhQhyQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808775435514-40ul8ekagnigk66mjobjs2rsgvva0ith.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
